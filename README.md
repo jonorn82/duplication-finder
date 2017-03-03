@@ -1,5 +1,5 @@
 # Usage
-You can search in multiple source locations
+You can search for duplicates in multiple source locations
 
 python dupFinder.py "dest-path-for-duplicates" "source-path" "source-path2" "source-path3"
 
